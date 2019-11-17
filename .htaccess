@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Members area"
-AuthUserFile .htpasswd
-Require valid-user
